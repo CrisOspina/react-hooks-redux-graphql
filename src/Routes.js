@@ -1,6 +1,7 @@
 import React from 'react'
 import { Switch, Route } from 'react-router-dom'
 import Home from './pages/home/HomePage'
+// import GraphHome from './pages/home/GraphHome'
 import FavPage from './pages/favs/FavPage'
 import LoginPage from './pages/login/LoginPage'
 import PrivateRoutes from './PrivateRoutes'
